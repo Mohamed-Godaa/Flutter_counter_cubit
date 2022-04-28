@@ -4,7 +4,7 @@ A simple cubit tutorial.
 
 ## check out the bloc docs, it's awesome!
 
-This project is a starting point for a Flutter application.
+https://bloclibrary.dev/#/fluttercountertutorial
 
 Key Topics
 - Observe state changes with BlocObserver.
